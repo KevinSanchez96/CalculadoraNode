@@ -18,3 +18,4 @@ const division = (a,b)=>{
         return a/b
     }
 }
+module.exports = {suma,resta,multiplicacion,division};
